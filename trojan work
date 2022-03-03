@@ -1,0 +1,9 @@
+#🗿
+
+pkg update && pkg upgrade -y
+pkg install toilet cowsay figlet 
+pkg install ruby
+gem install lolcat
+pip install requests
+pkg install bash
+https://github.com/azrilalkahfi/trojan
